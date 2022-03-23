@@ -7,14 +7,15 @@ from keep_alive import keep_alive
 
 client = discord.Client()
 
-perc_words = ["perc", "perc30","boof","faded", "yeat","molly"]
+perc_words = ["kanye", "hello","west","and", "donda","kanye"]
 
 perc_sayings = [
-  "I need a perc",
-  "2pm, time for a perc!",
-  "who needs percs!",
-  "stummy hurt",
-  "WHERE THE PROBLEM AT, IM SPINNIG ON THESE PERCS LIKE IM A LAUNDROMAT / bot!"
+  "We all self-conscious. I'm just the first to admit it.",
+  "I am God's vessel. But my greatest pain in life is that I will never be able to see myself perform live.",
+  "In jesus name, no more cap",
+  "I no longer have a manager, I can not be managed",
+  "WHERE THE PROBLEM AT, IM SPINNIG ON THESE PERCS LIKE IM A LAUNDROMAT / bot!",
+  "find god"
 ]
 #When bot is working
 @client.event
